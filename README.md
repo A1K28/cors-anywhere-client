@@ -1,5 +1,6 @@
 # cors-anywhere-client
 Whitelisted urls: ["https://a1k28.github.io/name-to-gender-classifier"].
+
 Heroku app url: https://cors-anywhere-client.herokuapp.com/
 
 ## purpose
