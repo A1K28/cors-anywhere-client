@@ -5,7 +5,7 @@ var port = process.env.PORT || 8080;
  
 var cors_proxy = require('cors-anywhere');
 cors_proxy.createServer({
-    originWhitelist: ['a1k28.github.io/name-to-gender-classifier'],
+    originWhitelist: ['https://a1k28.github.io/name-to-gender-classifier'],
     requireHeader: ['origin', 'x-requested-with'],
     removeHeaders: ['cookie', 'cookie2']
 }).listen(port, host, function() {
