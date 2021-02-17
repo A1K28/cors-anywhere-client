@@ -1,7 +1,7 @@
 # cors-anywhere-client
-Whitelisted urls: ["https://a1k28.github.io/name-to-gender-classifier"].
+Whitelisted urls: ["https://a1k28.github.io"].
 
-Heroku app url: https://cors-anywhere-client.herokuapp.com/
+Heroku app url: https://cors-anywhere-client.herokuapp.com/.
 
 ## Purpose
 Used for A1K28 unlimited cors-anywhere requests;
