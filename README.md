@@ -1,7 +1,7 @@
 # cors-anywhere-client
 Whitelisted urls: ["https://a1k28.github.io"].
 
-Heroku app url: https://cors-anywhere-client.herokuapp.com/.
+Heroku app url: https://cors-anywhere-client.vercel.app/.
 
 ## Purpose
 Used for A1K28 unlimited cors-anywhere requests;
